@@ -1,0 +1,4 @@
+interface:
+  display_name: "MVE Frontend Framework"
+  short_description: "Design frontend experiences users can trust"
+  default_prompt: "Use $apply-mve-frontend to assess and improve this frontend feature for clarity, recovery, trust, and verified completion."
